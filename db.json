@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "title": "Mysore, IN",
+      "weatherID": 1,
+      "mainTemp": 28,
+      "weatherDesc": "broken clouds",
+      "id": 1
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 1,
+      "mainTemp": 29,
+      "weatherDesc": "broken clouds",
+      "id": 2
+    },
+    {
+      "title": "Bengaluru, IN",
+      "mainTemp": 27,
+      "weatherDesc": "moderate rain",
+      "id": 3
+    }
+  ],
+  "recentcities": [
+    {
+      "title": "Hassan, IN",
+      "weatherID": 1,
+      "mainTemp": 26,
+      "weatherDesc": "scattered clouds",
+      "id": 2
+    },
+    {
+      "title": "Mysore, IN",
+      "weatherID": 1,
+      "mainTemp": 29,
+      "weatherDesc": "broken clouds",
+      "id": 9
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 1,
+      "mainTemp": 31,
+      "weatherDesc": "broken clouds",
+      "id": 10
+    },
+    {
+      "title": "Bengaluru, IN",
+      "weatherID": 2,
+      "mainTemp": 27,
+      "weatherDesc": "moderate rain",
+      "id": 11
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 1,
+      "mainTemp": 31,
+      "weatherDesc": "broken clouds",
+      "id": 12
+    },
+    {
+      "title": "Mumbai, IN",
+      "weatherID": 0,
+      "mainTemp": 30,
+      "weatherDesc": "haze",
+      "id": 13
+    },
+    {
+      "title": "Pune, IN",
+      "weatherID": 1,
+      "mainTemp": 28,
+      "weatherDesc": "broken clouds",
+      "id": 14
+    },
+    {
+      "title": "Pune, IN",
+      "weatherID": 1,
+      "mainTemp": 28,
+      "weatherDesc": "broken clouds",
+      "id": 15
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 16
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 17
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 18
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 19
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 20
+    },
+    {
+      "title": "Udupi, IN",
+      "weatherID": 2,
+      "mainTemp": 30,
+      "weatherDesc": "light rain",
+      "id": 21
+    }
+  ]
+}
